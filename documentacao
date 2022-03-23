@@ -1,0 +1,29 @@
+/*criação de atributos (variaveis) de usuario e senha*/
+/*métodos de envio de dados $_POST, $_GET, $_REQUEST*/
+/*dentro do pascal a simbologia de receber é := e no php =*/
+/*dentro do pascal a simbologia de igualdade é = e no php ==*/
+/*dentro do pascal a simbologia de diferente é <> e no php !=*/
+/*dentro do pascal a simbologia de E é AND e no php é &&*/
+/*dentro do pascal a simbologia de OU é OR e no php é ||*/
+/*dentro do pascal a condição IF e ELSE necessita de um then begin end*/
+/* IF user = 'zanata' then 
+    begin 
+        ações bem vindo ao sistema
+        abre uma janela
+    end 
+    else 
+    begin 
+        ações usuario ou senha errados
+        limpa campos posiciona o cursor
+    end;*/
+/*dentro do PHP a condição IF e ELSE necessita de {}*/
+/* IF (user == "zanata") 
+    {
+        ações bem vindo ao sistema
+        abre uma janela
+    } 
+    else 
+    { 
+        ações usuario ou senha errados
+        limpa campos posiciona o cursos
+    }*/
